@@ -3,6 +3,7 @@ theme:
   name: material
   logo: HC.png
 
+docs_dir: "content"
 extra:
   social: 
      - icon: fontawesome/brands/twitter
@@ -25,6 +26,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - admonition
 
 
 nav:

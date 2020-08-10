@@ -15,17 +15,10 @@ list_title: ' '
 
 
 
+???+ info "Anouncements"
 
-
-> **Announcements:**
->
-> *  
->
->   ----
->
->   
-
-# Welcome to Node Pro! 
+    The first class will be ___
+#Welcome to Node Pro! 
 
 
 
