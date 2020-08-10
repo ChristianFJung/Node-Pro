@@ -31,13 +31,13 @@ The class will be structured as 3 main units and each unit will culminate in a p
 The units are as follows:
 
 * **Unit 1** *(Week 1-3):*  Data, Data,Data!
-  * This unit will review the concepts of data discovery, manipulation, and analysis. 
-  * APIs will be introduced as a way of gathering data.
+  	- This unit will review the concepts of data discovery, manipulation, and analysis. 
+  	- APIs will be introduced as a way of gathering data.
 * **Unit 2**     *(Week 4-6)*:  Goodbye World. Hello Machine Learning!
-  * What is ML and why do we care about it?
-  * Understanding a broad overview about ML and when it is used?
+  	* What is ML and why do we care about it?
+  	* Understanding a broad overview about ML and when it is used?
 * **Unit 3** *(Week 7-9):* Journey into Deep Learning
-  * A brief introduction to the world of NLP and Image Classification
+  	* A brief introduction to the world of NLP and Image Classification
 
 The following topics will be interspaced throughout the Units:
 
