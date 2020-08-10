@@ -1,0 +1,41 @@
+site_name: Node Pro
+theme:
+  name: material
+  logo: HC.png
+
+extra:
+  social: 
+     - icon: fontawesome/brands/twitter
+       link: https://twitter.com/christianfjung
+     - icon: fontawesome/brands/linkedin
+       link: http://linkedin.christianfjung.com/
+     - icon: fontawesome/solid/globe
+       link: http://christianfjung.com/
+     - icon: fontawesome/brands/github
+       link: http://github.christianfjung.com/
+extra_css:
+  - stylesheets/extra.css
+# nav:
+#     - Home: 'index.md'
+#     - "Week 1":
+#     - "Week 2":
+#         - 'Overview': 'week2/readme.md'
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+nav:
+    - Home: 'index.markdown'
+    - "Week 1":
+        - Workshop 1: "week1/README.md"
+        - HW 1: "week1/hw1.md"
+    - "Week 2":
+        - Workshop 2: "week2/README.md"
+    - "Projects":
+        - Project 1: "project1/README.md"
+
+
+
