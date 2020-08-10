@@ -29,7 +29,10 @@ markdown_extensions:
   - pymdownx.details
   - admonition
 
-
+plugins:
+    - redirects:
+        redirect_maps:
+            'signin/': 'https://forms.gle/VpoYE9WaUfAdZqhT8'
 nav:
     - Home: 'index.markdown'
     - "Week 1":

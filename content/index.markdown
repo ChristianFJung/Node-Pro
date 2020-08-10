@@ -18,6 +18,8 @@ list_title: ' '
 ???+ info "Anouncements"
 
     The first class will be ___
+    Sign In - https://forms.gle/LFqpsKENsDshBaRP6
+    
 #Welcome to Node Pro! 
 
 
