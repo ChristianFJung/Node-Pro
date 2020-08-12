@@ -18,7 +18,9 @@ list_title: ' '
 ???+ info "Anouncements"
 
     The first class will be ___
-    Sign In - https://forms.gle/LFqpsKENsDshBaRP6
+    
+    Sign In  at nodepro.hackcville.com/signin
+    
     
 #Welcome to Node Pro! 
 
