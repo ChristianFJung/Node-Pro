@@ -6,7 +6,7 @@
 
 <!--[![Download Notebook](https://files.christianfjung.com/buttons/googleSlides.svg)](Link Here)-->
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/week1)
+
 
 Today, we will be reviewing python and pandas functions to help refresh us on the data tools that we have access to at our fingertips. 
 
