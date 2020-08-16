@@ -36,7 +36,7 @@ I do not know a lot about this problem so it is up to you to include what you th
 
 [Data](https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data)
 
-Your assignment is to look at the largest plans in the paycheck protection plan data and see if there is anything in common between them.  You have the freedom to combine this data with other sources if you'd like. *Potential ways of tackling the problem - Are these located specifically in center areas? Are they public or private? Does more employees necessarily mean they were given more money?*
+Your assignment is to look at the largest plans in the paycheck protection plan data and see if there is anything in common between them.  You have the freedom to combine this data with other sources if you'd like. *Potential ways of tackling the problem - Are these located specifically in certain areas? Are they public or private? Does more employees necessarily mean they were given more money?*
 
 
 
@@ -86,7 +86,7 @@ If you'd like to go the extra mile, an interesting approach might be to compare 
 
 
 
-*[Criticism](https://www.washingtonpost.com/news/magazine/wp/2018/11/08/feature/is-the-southern-poverty-law-center-judging-hate-fairly/) of SPLC's methods that you should be aware of*
+*[Criticism](https://www.washingtonpost.com/news/magazine/wp/2018/11/08/feature/is-the-southern-poverty-law-center-judging-hate-fairly/) of SPLC's methods that you should be aware of.*
 
 
 
