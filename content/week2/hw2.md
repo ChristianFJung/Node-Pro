@@ -4,7 +4,7 @@ For homework this week, I want to help you all begin to enter the data science c
 
 
 
-To start, I would like everyone to either create a  twitter for data science  or create a data science list.  Here's [mine](https://twitter.com/christianfjung) as an example. ~~To start off, I'd recommend you just spam follow everyone that I or someone else in DS  follows and then slowly begin to personalized your feed.~~ To make it incredibly easy for you, I've created a [list](https://twitter.com/i/lists/1295118685036666880?s=20) that allows you to see what my timeline is like. *(Shown below)*
+To start, I would like everyone to either create a  twitter for data science  or create a data science list.  To make it incredibly easy for you, I've created a [list](https://twitter.com/i/lists/1295118685036666880?s=20) that allows you to see what my timeline is like. *(Shown below)*
 
 
 
