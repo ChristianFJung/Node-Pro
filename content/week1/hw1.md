@@ -1,34 +1,13 @@
----
-# Add Title to Be in Top Bar
-
-layout: post
-parent: Week 1
-title: HW 1
----
-
 
 
 # HW 1
 
+For "homework" this week, you just need to do two quick things. 
 
-
-**HW 1**
-
-TODO [] 
-
-
-
- {% include youtube.html id="6yTLmzLtFKY" %}
+1. Fill out this survey. *(Used to help make project groups and potentially used a dataset in the future)*
+2. Sign for an account on [Github](https://github.com/) and then sign up for the [GitHub student developer pack.](https://education.github.com/pack)  
 
 
 
-{%include slides.html url = "https://docs.google.com/presentation/d/1nbjtZwaHavBhC8evtssKt6yYSCSuGK8WotliftXKbDY" %}
-
-
-
-<center> <iframe src="https://docs.google.com/presentation/d/1nbjtZwaHavBhC8evtssKt6yYSCSuGK8WotliftXKbDY/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
-
-**Test**
-
-<center> <iframe width="420" height="315" src="https://www.youtube.com/embed/hsxukOPEdgg" frameborder="0" allowfullscreen></iframe></center>
+*Reminder there is no lab this week.*
 
