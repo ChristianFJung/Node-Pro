@@ -2,7 +2,31 @@
 
 
 
-# Task 1 - Answer Key for Terrorism Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Done 
+
+
+
+## Task 1 - Answer Key for Terrorism Notebook - Nithin
 
 
 
@@ -14,7 +38,7 @@ Look at the [terrorism activity.](https://nodepro.hackcville.com/week1/)  At the
 
 
 
-# Task 2- Annotate Karen Notebook.
+## Task 2- Annotate Karen Notebook. - Jasmine
 
 [Karen](https://nodepro.hackcville.com/week1/)
 
