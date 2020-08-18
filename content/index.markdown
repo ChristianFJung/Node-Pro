@@ -6,12 +6,31 @@
 
 ???+ info "Anouncements"
 
-    The first class will be ___
+    <center>
+    *The first class will be September 13th.* 
     
-    Sign In  at [nodepro.hackcville.com/signin](/signin) 
-
+    ---
+    
+    ** Welcome Work**
+    
+     Sign In  at [nodepro.hackcville.com/signin](/signin)
+     
+     Visit the [Week 1 Page](/week1/README)
+    
+    ---
+    
+    <center>**Upcoming  Assignments**
+    
+    | **Details**           | Due Date            |
+    | --------------------- | ------------------- |
+    | [HW 1](/week1/hw1) | Friday 9/18 at Noon |
+    
+    </center>
 
 ​    
+
+
+
 #Welcome to Node Pro! 
 
 

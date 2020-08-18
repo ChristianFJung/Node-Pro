@@ -7,3 +7,9 @@
     
         <center> <iframe src="https://docs.google.com/presentation/d/1nbjtZwaHavBhC8evtssKt6yYSCSuGK8WotliftXKbDY/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
 
+
+
+| **Details**           | Due Date            |
+| --------------------- | ------------------- |
+| [HW 1](/week1/hw1.md) | Friday 9/18 at Noon |
+
