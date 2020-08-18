@@ -84,6 +84,10 @@ This website will be used to share all course content and curriculum.
 + [:fa-download:](http://linkedin.christianfjung.com)
 + :fa-download:
 
+* :fontawesome-brands-medium:{: .medium } – Medium
+* :fontawesome-brands-twitter:{: .twitter } – Twitter
+* :fontawesome-brands-facebook:{: .facebook } – Facebook
+
 </center>
 
 I'm an undergraduate student studying computer science, interested in the intersection of data and people. I  currently work part time with the Novetta Machine Learning Center of Excellence where my work primarily focuses on developing new methods for text interpretability. Outside of my work at Novetta, I also volunteer with the U.S. Air Force through the X-Force program and am the technical producer for the Global Inquirer podcast.
