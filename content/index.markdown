@@ -81,12 +81,9 @@ This website will be used to share all course content and curriculum.
 
 ### Christian F. Jung - Program Lead
 
-+ [:fa-download:](http://linkedin.christianfjung.com)
-+ :fa-download:
+[:fontawesome-brands-twitter:](http://twitter.christianfjung.com) [:fontawesome-brands-linkedin-in:](http://linkedin.christianfjung.com)	[:fontawesome-regular-envelope:](mailto:Christian%20F.%20Jung<christian@hackcville.com>)
 
-* :fontawesome-brands-medium:{: .medium } – Medium
-* :fontawesome-brands-twitter:{: .twitter } – Twitter
-* :fontawesome-brands-facebook:{: .facebook } – Facebook
+
 
 </center>
 

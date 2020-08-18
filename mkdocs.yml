@@ -30,7 +30,6 @@ markdown_extensions:
   - admonition
   - pymdownx.tabbed
   - pymdownx.superfences
-  - fontawesome_markdown
 plugins:
     - redirects:
         redirect_maps:
