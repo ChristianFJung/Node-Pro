@@ -1,3 +1,7 @@
+***This page is not done*** - needs survey for #1
+
+
+
 #  HW 3 - Reflection Assignment
 
 *Two quick things and 1 article to read and reflect on*

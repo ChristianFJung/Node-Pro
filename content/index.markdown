@@ -15,7 +15,7 @@
     
      Sign In  at [nodepro.hackcville.com/signin](/signin)
      
-     Visit the [Week 1 Page](/week1/README)
+     Visit the [Week 1 Page](/week1)
     
     ---
     
