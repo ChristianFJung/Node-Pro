@@ -76,7 +76,6 @@ This website will be used to share all course content and curriculum.
 ## About Your Instructors
 
 <center>
-
 <img src="pics/christian.png" alt="christian" style="zoom:5%;" />
 
 ### Christian F. Jung - Program Lead
@@ -87,7 +86,7 @@ This website will be used to share all course content and curriculum.
 
 </center>
 
-I'm an undergraduate student studying computer science, interested in the intersection of data and people. I  currently work part time with the Novetta Machine Learning Center of Excellence where my work primarily focuses on developing new methods for text interpretability. Outside of my work at Novetta, I also volunteer with the U.S. Air Force through the X-Force program and am the technical producer for the Global Inquirer podcast.
+I'm a 3rd year student studying computer science, interested in the intersection of data and people. I  currently work part time with the Novetta Machine Learning Center of Excellence where my work primarily focuses on developing new methods for text interpretability. Outside of my work at Novetta, I also volunteer with the U.S. Air Force through the X-Force program and am the technical producer for the Global Inquirer podcast.
 
 
 
@@ -96,3 +95,30 @@ I took Node the first semester of my first year and have been involved with Hack
 
 
 On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and volunteer with children in STEM!
+
+<center>
+
+
+
+### Jasmine Dogu - Program Coordinator
+
+[:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/jasmine-dogu-52459a168/)	[:fontawesome-regular-envelope:](mailto:Jasmine Dogu<ejd5mm@virginia.edu>)
+
+</center>
+
+
+
+<center>
+<img src="pics/Nithin.JPG" alt="Nithin" style="zoom:10%;" />
+
+
+### **Nithin Vijayakumar** - Program Coordinator
+
+[:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/nithin-vijayakumar-7979a1189/)	[:fontawesome-regular-envelope:](mailto:Nithin Vijayakumar<nv2ba@virginia.edu>)
+
+
+
+</center>
+
+I'm a 3rd Year majoring in Stat and CS and was a Node Lite PC last semester. I'm also an Avid NBA fan.
+
