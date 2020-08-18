@@ -75,3 +75,20 @@ This website will be used to share all course content and curriculum.
 
 ## About Your Instructors
 
+<center>
+
+<img src="pics/christian.png" alt="christian" style="zoom:5%;" />
+
+### Christian F. Jung - Program Lead
+
+</center>
+
+I'm an undergraduate student studying computer science, interested in the intersection of data and people. I  currently work part time with the Novetta Machine Learning Center of Excellence where my work primarily focuses on developing new methods for text interpretability. Outside of my work at Novetta, I also volunteer with the U.S. Air Force through the X-Force program and am the technical producer for the Global Inquirer podcast.
+
+
+
+I took Node the first semester of my first year and have been involved with HackCville ever since. I was a PC, then I taught Node for two semesters and I'm incredibly excited to have created this class, Node Pro, from scratch and share it with all of you!!
+
+
+
+On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and volunteer with children in STEM!
