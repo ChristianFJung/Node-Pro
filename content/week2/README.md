@@ -1,47 +1,40 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Week 2
 
 
 
-title: 'Week 2'
-permalink: 'Week2'
-layout: default
-
----
-
-<!-- Todo add slides --><!-- Change title above and comment out answer keys -->
-
-# Week 2- *In Progress*
+<!-- Todo add slides -->
 
 
 
-[![Open Slides](https://files.christianfjung.com/buttons/googleSlides.svg)](Link Here)
-
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/week1)
-
-
-
-Today, we will be ____ 
+Today, we will be using the data from your surveys to learn about APIs, then you'll be introduced to the first project!
 
 <!-- Comment Out Answer Key -->
 
-| **Task** | Details                                                      | Answer Key                                                   |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| WS       |                                                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/week1/BabyNames.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/BabyNames.ipynb) |
-| WS       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) |                                                              |
-| HW       |                                                              |                                                              |
-| Labs     |                                                              |                                                              |
-
-
-
-
-
+| **Task**                    | Details                                                      | Answer Key                                                   |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :school: WS :               |                                                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/BabyNames.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/BabyNames.ipynb) |
+| :school: WS:                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) |                                                              |
+| :school_satchel: HW: Week 2 | [HW2](/week2/hw2.md)                                         | *n/a*                                                        |
+| :microscope: ​Labs           | [Lab 2](/week2/lab2.md)                                      | *n/a*                                                        |
 
 
 
 
 ## About This Week's  Data
+
+Today's data has been taken from your survey and projects are shown accordingly. 
+
+
+
+
+
+# Slides and Recordings
+
+
+
+<center> <iframe src="https://docs.google.com/presentation/d/1nbjtZwaHavBhC8evtssKt6yYSCSuGK8WotliftXKbDY/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
+
+
+
+<center> <iframe width="420" height="315" src="https://www.youtube.com/embed/hsxukOPEdgg" frameborder="0" allowfullscreen></iframe></center>
 

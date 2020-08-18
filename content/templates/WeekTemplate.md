@@ -12,12 +12,12 @@ Today, we will be reviewing python and pandas functions to help refresh us on th
 
 <!-- Comment Out Answer Key -->
 
-| **Task**                             | Details                                                      | Answer Key                                                   |
-| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| :school: WS : Karen Pandas Review    | n/a - *Start with Empty Notebook*                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/BabyNames.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/BabyNames.ipynb) |
-| :school: WS: Terrorism Data Activity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) | [] *TODO*                                                    |
-| :school_satchel: HW: Week 1          | [ ] *TODO* - [HW1](/week1/hw1)                               | *n/a*                                                        |
-| :microscope: ​Labs                    | *n/a - There is no lab this week.*                           | *n/a*                                                        |
+| **Task**                    | Details                                                      | Answer Key                                                   |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :school: WS :               |                                                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/BabyNames.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/BabyNames.ipynb) |
+| :school: WS:                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) |                                                              |
+| :school_satchel: HW: Week 1 |                                                              |                                                              |
+| :microscope: ​Labs           |                                                              |                                                              |
 
 
 
@@ -26,8 +26,7 @@ Today, we will be reviewing python and pandas functions to help refresh us on th
 
 Today's data has been taken from:
 
-* The [karen data](/week1/data/babynames.csv) was based off this [article](https://pudding.cool/2020/06/karen/). 
-* [The Global Terrorism Data](/week1/data/terrorism.csv)  was taken from [Kaggle](https://www.kaggle.com/START-UMD/gtd)
+* 
 * 
 
 

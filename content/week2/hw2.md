@@ -18,7 +18,7 @@ Next, I'd like you to take a look at [Hacker News](https://news.ycombinator.com/
 
 ## Deliverables
 
-1. Save a link to an article that you've found on hacker news that interests you.
+1. Share a link in the slack channel  to an article that you've found on hacker news that interests you.
 2.  Reply to a  cool data related tweet and tag me [@ChristianFJung](https://twitter.com/christianfjung). 
 
 

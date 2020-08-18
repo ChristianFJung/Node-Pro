@@ -28,6 +28,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.details
   - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
 
 plugins:
     - redirects:
@@ -41,6 +43,9 @@ nav:
     - "Week 2":
         - Workshop 2: "week2/README.md"
         - HW 2: "week2/hw2.md"
+    - "Week 3":
+        - Workshop 3: "week3/README.md"
+        - HW 3: "week3/hw3.md"
     - "Projects":
         - Project 1: "project1/README.md"
 

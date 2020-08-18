@@ -8,7 +8,7 @@
 
     The first class will be ___
     
-    Sign In  at nodepro.hackcville.com/signin
+    Sign In  at [nodepro.hackcville.com/signin](/signin) 
 
 
 ​    
