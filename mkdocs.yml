@@ -34,6 +34,7 @@ plugins:
     - redirects:
         redirect_maps:
             'signin/': 'https://forms.gle/VpoYE9WaUfAdZqhT8'
+            'zoom': 'https://virginia.zoom.us/j/97419672198?pwd=TDViNXFEWm9kODhvM1g5TkZ4aDdRUT09'
 nav:
     - Home: 'index.markdown'
     - "Week 1":
