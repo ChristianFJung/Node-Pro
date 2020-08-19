@@ -38,7 +38,7 @@ Today's data has been taken from:
 
 === "Recording"
 
-    <center> <iframe width="420" height="315" src="https://www.youtube.com/embed/hsxukOPEdgg" frameborder="0" allowfullscreen></iframe></center>
+    *Will be posted after workshop*
 
 === "Slides"
 
