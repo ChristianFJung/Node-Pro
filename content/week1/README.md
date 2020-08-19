@@ -36,11 +36,15 @@ Today's data has been taken from:
 
 # Slides and Recordings
 
-=== "Recording"
 
-    *Will be posted after workshop*
 
 === "Slides"
 
     <center> <iframe src="https://docs.google.com/presentation/d/12an8LXms9eCsloyYZhspVTvpsiTFUPTSboSrJwWWsnQ/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
+
+
+
+=== "Recording"
+
+    *Will be posted after workshop*
 
