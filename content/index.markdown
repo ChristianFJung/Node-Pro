@@ -7,7 +7,9 @@
 ???+ info "Anouncements"
 
     <center>
-    *The first class will be September 13th.* 
+    [![Open Zoom](https://raw.githubusercontent.com/ishaandey/node/master/tools/buttons/open-zoom.svg)](/zoom) 
+    
+    *[nodepro.hackcville.com/zoom](/zoom)*
     
     ---
     
@@ -28,6 +30,8 @@
     </center>
 
 ​    
+
+
 
 
 
