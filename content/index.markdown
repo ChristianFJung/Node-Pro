@@ -120,5 +120,5 @@ On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and
 
 </center>
 
-I'm a 3rd Year majoring in Stat and CS and was a Node Lite PC last semester. I'm also an Avid NBA fan.
+I’m a 3rd Year majoring in Statistics and Computer Science. I have an interest in Machine Learning and Deep Learning on the statistics side, as well as big data and remote computing tools. This is my 3rd semester with HackCville –  I took Node last year in the Fall, and was a PC for Node Lite in the Spring.In my free time, I enjoy cooking, woodworking, and watching the NBA. Recently, I have been working on creating a MIDI drum kit (almost) from scratch.
 
