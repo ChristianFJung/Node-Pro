@@ -1,4 +1,4 @@
-site_name: Zoom @ HackCville
+site_name: Node Pro
 theme:
   name: material
   logo: HC.png
@@ -7,16 +7,20 @@ docs_dir: "content"
 extra:
   social: 
      - icon: fontawesome/brands/twitter
-       link: https://twitter.com/hackcville
+       link: https://twitter.com/christianfjung
      - icon: fontawesome/brands/linkedin
-       link: https://www.linkedin.com/company/hackcville/
+       link: http://linkedin.christianfjung.com/
      - icon: fontawesome/solid/globe
-       link: https://hackcville.com/
-
+       link: http://christianfjung.com/
+     - icon: fontawesome/brands/github
+       link: http://github.christianfjung.com/
 extra_css:
   - stylesheets/extra.css
-
-
+# nav:
+#     - Home: 'index.md'
+#     - "Week 1":
+#     - "Week 2":
+#         - 'Overview': 'week2/readme.md'
 
 markdown_extensions:
   - pymdownx.emoji:
@@ -29,11 +33,22 @@ markdown_extensions:
 plugins:
     - redirects:
         redirect_maps:
-            'nodelite/': 'https://forms.gle/VpoYE9WaUfAdZqhT8'
-            'nodepro': 'https://nodepro.hackcville.com/zoom'
+            'signin/': 'https://forms.gle/VpoYE9WaUfAdZqhT8'
+            'zoom': 'https://virginia.zoom.us/j/97419672198?pwd=TDViNXFEWm9kODhvM1g5TkZ4aDdRUT09'
 nav:
     - Home: 'index.markdown'
-
+    - "Week 1":
+        - Workshop 1: "week1/README.md"
+        - HW 1: "week1/hw1.md"
+    - "Week 2":
+        - Workshop 2: "week2/README.md"
+        - HW 2: "week2/hw2.md"
+        - Lab 2: "week2/lab2.md"
+    - "Week 3":
+        - Workshop 3: "week3/README.md"
+        - HW 3: "week3/hw3.md"
+    - "Projects":
+        - Project 1: "project1/README.md"
 
 
 
