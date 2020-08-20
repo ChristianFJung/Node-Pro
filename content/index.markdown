@@ -100,7 +100,12 @@ I took Node the first semester of my first year and have been involved with Hack
 
 On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and volunteer with children in STEM!
 
+
+
+
+
 <center>
+<img src="pics/Jasmine.png" alt="Jasmine" style="zoom:30%;" />
 
 
 
@@ -109,6 +114,10 @@ On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and
 [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/jasmine-dogu-52459a168/)	[:fontawesome-regular-envelope:](mailto:Jasmine Dogu<ejd5mm@virginia.edu>)
 
 </center>
+
+I’m a third year majoring in Statistics and Computer Science. I’m interested in the development and application of data science within the medical field. This is my 2nd semester with HackCville; I took Node last year in the Spring. In my free time, I enjoy cooking, watching Ted Talks, and hanging with friends.
+
+
 
 
 

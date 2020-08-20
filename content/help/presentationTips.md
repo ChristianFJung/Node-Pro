@@ -35,9 +35,9 @@ layout: default
 * Great templates at [slidescarnival.com](http://slidescarnival.com) or [slidesgo.com](http://slidesgo.com)
 * Use [https://carbon.now.sh/](https://carbon.now.sh/) for great code snippets
 * When pasting graphs in Google slides, click on an image than `format options -> recolor`
-  * Have your graphs match the template. 
+  	* Have your graphs match the template. 
 * Checkout an example that I made for  a class that looks really good ->  [Boston Housing Data Example](https://docs.google.com/presentation/d/e/2PACX-1vSbjOaXGjkEDSPZTjVj79CjyDIiR7e9yyEC_YwiJW513Qz6zDsXCbHlzMvW98e2VWHhRE05FsBEe-g6/pub?start=false&loop=false&delayms=3000)
-  * To me this is the best of both worlds, looks very clean but I'm not spending tons of time making a beautiful deck. 
+  	* To me this is the best of both worlds, looks very clean but I'm not spending tons of time making a beautiful deck. 
 
 ## Presentation Guides
 
