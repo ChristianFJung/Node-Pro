@@ -2,6 +2,7 @@ site_name: Node Pro
 theme:
   name: material
   logo: HC.png
+  
 
 docs_dir: "content"
 extra:
