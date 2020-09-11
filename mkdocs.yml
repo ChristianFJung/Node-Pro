@@ -41,15 +41,15 @@ nav:
     - "Week 1":
         - Workshop 1: "week1/README.md"
         - HW 1: "week1/hw1.md"
-    - "Week 2":
-        - Workshop 2: "week2/README.md"
-        - HW 2: "week2/hw2.md"
-        - Lab 2: "week2/lab2.md"
-    - "Week 3":
-        - Workshop 3: "week3/README.md"
-        - HW 3: "week3/hw3.md"
-    - "Projects":
-        - Project 1: "project1/README.md"
+    # - "Week 2":
+    #     - Workshop 2: "week2/README.md"
+    #     - HW 2: "week2/hw2.md"
+    #     - Lab 2: "week2/lab2.md"
+    # - "Week 3":
+    #     - Workshop 3: "week3/README.md"
+    #     - HW 3: "week3/hw3.md"
+    # - "Projects":
+    #     - Project 1: "project1/README.md"
 
 
 
