@@ -14,7 +14,7 @@
     ---
     
     ** Welcome Work**
-    
+    *To be updated before each class**
     
     ---
     
