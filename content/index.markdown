@@ -15,9 +15,6 @@
     
     ** Welcome Work**
     
-     Sign In  at [nodepro.hackcville.com/signin](/signin)
-     
-     Visit the [Week 1 Page](/week1)
     
     ---
     
