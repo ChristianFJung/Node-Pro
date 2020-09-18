@@ -14,12 +14,12 @@ Today, we will be using the data from your surveys to learn about APIs, then you
 
 <!-- Comment Out Answer Key -->
 
-| **Task**                    | Details                                                      | Answer Key                                                   |
-| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| :school: WS :               |                                                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/BabyNames.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/BabyNames.ipynb) |
-| :school: WS:                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) |                                                              |
-| :school_satchel: HW: Week 2 | [HW2](/week2/hw2.md)                                         | *n/a*                                                        |
-| :microscope: ​Labs           | [Lab 2](/week2/lab2.md)                                      | *n/a*                                                        |
+| **Task**                      | Details                                                      | Answer Key                                                   |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :school: WS : Warmup w/ Group | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup-answers.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup-answers.ipynb) |
+| :school: WS:                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week1/Terrorism.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week1/Terrorism.ipynb) |                                                              |
+| :school_satchel: HW: Week 2   | [HW2](/week2/hw2.md)                                         | *n/a*                                                        |
+| :microscope: ​Labs             | [Lab 2](/week2/lab2.md)                                      | *n/a*                                                        |
 
 
 
