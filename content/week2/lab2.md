@@ -1,4 +1,4 @@
-***This page is not done***
+
 
 
 
@@ -8,7 +8,8 @@ For lab, this week you all will be working with your project teams to complete t
 
 
 
-The lab groups are as follows: 
+![image-20200919162300511](image-20200919162300511.png)
 
 
 
+![image-20200919162311349](image-20200919162311349.png)

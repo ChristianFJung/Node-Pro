@@ -21,17 +21,16 @@
     
     <center>**Upcoming  Assignments**
     
-    | **Details**           | Due Date            |
-    | --------------------- | ------------------- |
-    | [HW 1](/week1/hw1) | Friday 9/18 at Noon |
+    | **Details**                                                  | Due Date            |
+    | ------------------------------------------------------------ | ------------------- |
+    | [HW 2](/week2/hw2)                                           | Friday 9/25 at Noon |
+    | Project 1 - [Problem Description](project1), [Lab 2](/week2/lab2) | Sunday 9/27 at Noon |
+    
+    
     
     </center>
 
 ​    
-
-
-
-
 
 #Welcome to Node Pro! 
 
@@ -84,7 +83,11 @@ This website will be used to share all course content and curriculum.
 
 [:fontawesome-brands-twitter:](http://twitter.christianfjung.com) [:fontawesome-brands-linkedin-in:](http://linkedin.christianfjung.com)	[:fontawesome-regular-envelope:](mailto:Christian%20F.%20Jung<christian@hackcville.com>)
 
-
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/christianfjung'});return false;">Schedule a 1 on 1 </a>
+<!-- Calendly link widget end -->
 
 </center>
 
