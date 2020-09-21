@@ -16,9 +16,9 @@ Today, we will be using the data from your surveys to learn about APIs, then you
 
 | **Task**                      | Details                                                      | Answer Key                                                   |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| :school: WS : Warmup w/ Group | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup.ipynb) | *Answers posted after class*<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup-answers.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup-answers.ipynb)--> |
+| :school: WS : Warmup w/ Group | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/warmup-answers.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/warmup-answers.ipynb) |
 | :school: WS: APIs             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/API.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/API.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/API-key.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/API-key.ipynb) |
-| :school: WS: APIs *Part 2*    | *n/a see above*                                              | *Answers posted after class* <!--[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/API-part2-key.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/API-part2-key.ipynb)--> |
+| :school: WS: APIs *Part 2*    | *n/a see above*                                              | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week2/API-part2-key.ipynb) [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week2/API-part2-key.ipynb) |
 |                               |                                                              |                                                              |
 | :school_satchel: HW: Week 2   | [HW2](/week2/hw2)                                            | *n/a*                                                        |
 | :microscope: ​Labs             | [Lab 2](/week2/lab2)                                         | *n/a*                                                        |
@@ -42,7 +42,7 @@ Today's data has been taken from your survey and projects are shown accordingly.
 
 === "Recording"
 
-    Posted After Class
-    
+    <center>
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/A8rmMRdTwWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
     
 
