@@ -37,6 +37,7 @@ plugins:
             'signin/': 'https://forms.gle/VpoYE9WaUfAdZqhT8'
             'zoom': 'https://virginia.zoom.us/j/97419672198?pwd=TDViNXFEWm9kODhvM1g5TkZ4aDdRUT09'
             'api': "http://nodepro.hackcville.com/week2/data/csvjson.json"
+            'eval': 'https://forms.gle/2qKL31GHKDk7bePf6'
 nav:
     - Home: 'index.markdown'
     - "Week 1":
