@@ -16,12 +16,12 @@ Today, we will be sharing your presentations and talking about some of the artic
 
 <!-- Comment Out Answer Key -->
 
-| **Task**                             | Details                                                    | Answer Key            |
-| ------------------------------------ | ---------------------------------------------------------- | --------------------- |
-| :school: WS                          | Presentations during Class                                 | *n/a*                 |
-| :school_satchel: HW: Week 3A Pre-lab | [Pre-lab](week3/hw3)                                       | n/a                   |
-| :school_satchel: HW: Week 3B         | [Reflection Assignment](week3/hw3b) **Due Sunday at Noon** | *n/a*                 |
-| :microscope: ​Labs                    | [Lab 3](week3/lab3)                                        | *Posted Friday night* |
+| **Task**                             | Details                                              | Answer Key            |
+| ------------------------------------ | ---------------------------------------------------- | --------------------- |
+| :school: WS                          | Presentations during Class                           | *n/a*                 |
+| :school_satchel: HW: Week 3A Pre-lab | [Pre-lab](hw3)                                       | n/a                   |
+| :school_satchel: HW: Week 3B         | [Reflection Assignment](hw3b) **Due Sunday at Noon** | *n/a*                 |
+| :microscope: ​Labs                    | [Lab 3](lab3)                                        | *Posted Friday night* |
 
 
 
