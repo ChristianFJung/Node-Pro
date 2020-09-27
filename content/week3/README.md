@@ -12,15 +12,15 @@ Today, we will be sharing your presentations and talking about some of the artic
 
 
 
-**At the start of class,**and add all your project files *(code, notes, ppt)*   [folder](https://drive.google.com/drive/folders/1QyCASA1mPBlXtZHQlddBKmpVpgBr1Wx7?usp=sharing) . *It's okay if your code is messy.*
+**Before class,**  add all your project files *(code, notes, ppt)*   [folder](https://drive.google.com/drive/folders/1QyCASA1mPBlXtZHQlddBKmpVpgBr1Wx7?usp=sharing) . *It's okay if your code is messy.*
 
 <!-- Comment Out Answer Key -->
 
 | **Task**                             | Details                                              | Answer Key            |
 | ------------------------------------ | ---------------------------------------------------- | --------------------- |
 | :school: WS                          | Presentations during Class                           | *n/a*                 |
-| :school_satchel: HW: Week 3A Pre-lab | [Pre-lab](hw3)                                       | n/a                   |
-| :school_satchel: HW: Week 3B         | [Reflection Assignment](hw3b) **Due Sunday at Noon** | *n/a*                 |
+| :school_satchel: HW: Week 3A Pre-lab | [Pre-lab](hw3) **Due Before your lab**               | n/a                   |
+| :school_satchel: HW: Week 3B         | [Reflection Assignment](hw3b) **Due Friday at Noon** | *n/a*                 |
 | :microscope: ​Labs                    | [Lab 3](lab3)                                        | *Posted Friday night* |
 
 

@@ -1,13 +1,6 @@
 # Lab 3
 
-
-
-## Pre Lab
-
-* Sign up [here](https://www.safegraph.com/covid-19-data-consortium) with UVA Email 
-* Read this [article](https://theoutline.com/post/2490/why-is-this-company-tracking-where-you-are-on-thanksgiving?zd=2&zi=4g52dipk) 
-
-
+*Please do [Prelab](/week3/hw3) First*
 
 ## Lab
 
@@ -19,7 +12,7 @@ This data is from a company called SafeGraph and they pay mobile apps for your l
 
 
 
-In order to use their data, you need to sign up **(link below)**. Once you have accesss, you get 100s of GBs of data that have people's location. In order to save the memory of your computer, I have subsetted out all the data for UVA and Cville. 
+In order to use their data, you need to sign up. Once you have accesss, you get 100s of GBs of data that have people's location. In order to save the memory of your computer, I have subsetted out all the data for UVA and Cville. 
 
 
 
@@ -31,11 +24,9 @@ For this lab, I'm going to walk you through how I would try and piece together s
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week3/lab3/Lab3.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week3/Lab3.ipynb)
 
 
-
-| **Task**          | Details | Answer Key |
-| ----------------- | ------- | ---------- |
-| :microscope: ​Labs |         | *n/a*      |
+| **Task**          | Details                                                      | Answer Key |
+| ----------------- | ------------------------------------------------------------ | ---------- |
+| :microscope: ​Labs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianfjung/Node-Pro/blob/master/content/week3/lab3/Lab3.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](/week3/Lab3.ipynb) | *n/a*      |
 
