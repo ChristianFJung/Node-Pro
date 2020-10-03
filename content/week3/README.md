@@ -10,7 +10,7 @@
 
 Today, we will be sharing your presentations and talking about some of the articles and tweets that you all have found. 
 
-
+ 
 
 **Before class,**  add all your project files *(code, notes, ppt)*   [folder](https://drive.google.com/drive/folders/1QyCASA1mPBlXtZHQlddBKmpVpgBr1Wx7?usp=sharing) . *It's okay if your code is messy.*
 
