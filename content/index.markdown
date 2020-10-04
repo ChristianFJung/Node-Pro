@@ -13,22 +13,14 @@
     
     ---
     
-    ** Welcome Work**
     
-    *To be updated before each class*
-    
-    ---
-    
-    <center>**Upcoming  Assignments**
+    <center> 
+    ##**Upcoming  Assignments**
     
     | **Details**                                                  | Due Date            |
     | ------------------------------------------------------------ | ------------------- |
-    | [HW 2](/week2/hw2)                                           | Friday 9/25 at Noon |
-    | Project 1 - [Problem Description](project1), [Lab 2](/week2/lab2) | Sunday 9/27 at Noon |
+    | Attend [GTC Conference](https://www.nvidia.com/en-us/gtc/)                                           | n/a |
     
-    
-    
-    </center>
 
 ​    
 

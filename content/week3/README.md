@@ -39,5 +39,5 @@ Today, we will be sharing your presentations and talking about some of the artic
 
 === "Recording"
 
-    Posted After Class
+    This lesson was not recorded to respect student privacy since this lesson was presentation day.
 
