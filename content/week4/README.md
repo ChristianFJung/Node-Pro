@@ -38,11 +38,11 @@ Today's data has been taken from your survey and projects are shown accordingly.
 
 === "Slides"
 
-    <center> <iframe src="https://docs.google.com/presentation/d/12eiEDkL7XWxgtYAPoPoKl86tVxkPMvft9_a72YHk8kY/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
+    <center> <iframe src="https://docs.google.com/presentation/d/1pepnFI3Kw-SqfIv0hpPB05WnZ8-udeSaQOBPmzftTFs/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
 
 === "Recording"
 
     <center>
-    Will be posted after class </center>
+    Sorry, I messed up the recording. </center>
 
 
