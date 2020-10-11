@@ -12,15 +12,16 @@
     *[nodepro.hackcville.com/zoom](/zoom)*
     
     ---
-    
-    
+
+
+​    
     <center> 
     ##**Upcoming  Assignments**
     
     | **Details**                                                  | Due Date            |
     | ------------------------------------------------------------ | ------------------- |
-    | Attend [GTC Conference](https://www.nvidia.com/en-us/gtc/)                                           | n/a |
-    
+    |  [Lab 5 ](/week5/lab5)                                           | **Sunday at Noon** |
+
 
 ​    
 
