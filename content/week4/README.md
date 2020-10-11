@@ -10,7 +10,9 @@
 
 
 
-Today, we will be using the data from your surveys to learn about APIs, then you'll be introduced to the first project!
+Today, we will be starting ML! I'll begin by going over some conceptual information then Nithin will walk us through some code! We'll then conclude the class with a mini-project. 
+
+
 
 <!-- Comment Out Answer Key -->
 
