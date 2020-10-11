@@ -24,7 +24,7 @@ This week's [lab](lab5) is individual.
 
 === "Slides"
 
-    <center> <iframe src="https://docs.google.com/presentation/d/12eiEDkL7XWxgtYAPoPoKl86tVxkPMvft9_a72YHk8kY/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
+    <center> <iframe src="https://docs.google.com/presentation/d/1pepnFI3Kw-SqfIv0hpPB05WnZ8-udeSaQOBPmzftTFs/embed" frameborder="0" width="420" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </center>
 
 === "Recording"
 

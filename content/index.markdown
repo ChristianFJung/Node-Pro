@@ -17,7 +17,7 @@
     
     | **Details**                                                  | Due Date            |
     | ------------------------------------------------------------ | ------------------- |
-    | Lab 5 [Lab 5 ](https://www.nvidia.com/en-us/gtc/)                                           | **Sunday at Noon** |
+    | Git-it: [Lab 5 ](/week5/lab5)                                           | **Sunday at Noon** |
 
 
 ​    
