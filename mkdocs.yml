@@ -60,6 +60,8 @@ nav:
     - "Week 5": 
         - "Workshop 5": "week5/README.md"
         - "Lab 5": "week5/lab5.md"
+    - "Week 6":
+        - "Workshop 6": "week6/README.md"
 
 
     - "Projects":
