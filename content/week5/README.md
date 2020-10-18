@@ -29,6 +29,6 @@ This week's [lab](lab5) is individual.
 === "Recording"
 
     <center>
-    Will be posted after class </center>
+    DM for zoom recording </center>
 
 
