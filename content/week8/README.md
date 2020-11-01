@@ -14,7 +14,7 @@
 
 | **Task**                   | Details                                                      | Answer Key |
 | -------------------------- | ------------------------------------------------------------ | ---------- |
-| Warmup                     | Tell me something about this [data](/data/covid19_tweets.csv) |            |
+| Warmup                     | Tell me something about this [data](data/covid19_tweets.csv) |            |
 | :school: WS: Sent Analysis | Live Code                                                    | n/a        |
 | Project Time               |                                                              |            |
 |                            |                                                              |            |
