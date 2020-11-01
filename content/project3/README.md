@@ -33,6 +33,8 @@ Scheduled Work time:
 
 
 
+10 - 15 minutes total presentation time
+
 
 
 
