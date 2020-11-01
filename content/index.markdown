@@ -17,11 +17,11 @@
     
     | **Details**                                                  | Due Date            |
     | ------------------------------------------------------------ | ------------------- |
-    | Git-it: [Lab 5 ](/week5/lab5)                                           | **Sunday at Noon** |
+    | Final Project: [Project 3 ](/project3/README.md)                                           | **Sunday Nov 15th** |
 
 
 ​    
-    
+​    
 
 
 ​    
