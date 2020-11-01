@@ -23,6 +23,18 @@ Scheduled Work time:
 
 
 
+## What your project must include?
+
+*  Exploratory Data Analysis
+* An ML method
+* A discussion on who your project impacts
+* a BRIEF code walkthrough
+* some other live demo *(see below)*
+
+
+
+
+
 ## Deliverables
 
 * A Powerpoint deck 
