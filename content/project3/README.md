@@ -23,34 +23,34 @@ Scheduled Work time:
 
 
 
-## What your project must include?
 
-*  Exploratory Data Analysis
-* An ML method
-* A discussion on who your project impacts
+
+
+
+# Deliverables
+
+10 -15 minutes total presentation time
+
+##Part 1. A Powerpoint deck 
+
+* Exploratory Data Analysis
+* Include how the model works, what you attempted to do, how'd it work
+* who does your work impact? Is there any ethical considerations?
 * a BRIEF code walkthrough
-* some other live demo *(see below)*
 
 
 
-10 - 15 minutes total presentation time
+## Part 2. Something else publishable *(suggestions)*:
 
+You need to have some kind of demo or something published. Here are some suggestions. 
 
-
-
-
-## Deliverables
-
-* A Powerpoint deck 
-  	* Include how the model works, what you attempted to do, how'd it work, and if there is any ethical considerations
-* Something else publishable *(suggestions)*:
-  	* [https://www.streamlit.io/](https://www.streamlit.io/)
-    	* incredibly easy to use
-  * [https://github.com/fastai/fastpages](https://github.com/fastai/fastpages)
-  * medium.com 
-  * [https://sites.google.com/](https://sites.google.com/)
-  * [https://substack.com/](https://substack.com/ ) ???
-  * 
+* [https://www.streamlit.io/](https://www.streamlit.io/)
+ 	* incredibly easy to use
+* [https://github.com/fastai/fastpages](https://github.com/fastai/fastpages)
+* medium.com 
+* [https://sites.google.com/](https://sites.google.com/)
+* [https://substack.com/](https://substack.com/ ) ???
+* 
 
 
 
