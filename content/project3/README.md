@@ -31,6 +31,8 @@ Scheduled Work time:
 
 10 -15 minutes total presentation time
 
+*Presentation tips available [here](/help/presentationtips).* 
+
 ##Part 1. A Powerpoint deck 
 
 * Exploratory Data Analysis
