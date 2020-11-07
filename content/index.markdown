@@ -17,7 +17,7 @@
     
     | **Details**                                                  | Due Date            |
     | ------------------------------------------------------------ | ------------------- |
-    | Final Project: [Project 3 ](/project3/README.md)                                           | **Sunday Nov 15th** |
+    | Final Project: [Project 3 ](/project3/)                                           | **Sunday Nov 15th** |
 
 
 ​    
@@ -77,13 +77,7 @@ This website will be used to share all course content and curriculum.
 
 [:fontawesome-brands-twitter:](http://twitter.christianfjung.com) [:fontawesome-brands-linkedin-in:](http://linkedin.christianfjung.com)	[:fontawesome-regular-envelope:](mailto:Christian%20F.%20Jung<christian@hackcville.com>)
 
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/christianfjung'});return false;">Schedule a 1 on 1 </a>
-<!-- Calendly link widget end -->
 
-</center>
 
 I'm a 3rd year student studying computer science, interested in the intersection of data and people. I  currently work part time with the Novetta Machine Learning Center of Excellence where my work primarily focuses on developing new methods for text interpretability. Outside of my work at Novetta, I also volunteer with the U.S. Air Force through the X-Force program and am the technical producer for the Global Inquirer podcast.
 
