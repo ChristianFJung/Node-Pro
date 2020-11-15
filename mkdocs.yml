@@ -40,6 +40,7 @@ plugins:
             'eval': 'https://forms.gle/2qKL31GHKDk7bePf6'
             'feedback' : 'https://forms.gle/MBcqWSbYJ2gEBVwy6'
             'template': 'https://docs.google.com/document/d/1Y7_TNWo3zKHnic32-_Oy1ZNHCrm-RmUwYXuy2d9kvSA/edit?usp=sharing'
+            'linkedin': 'https://www.linkedin.com/groups/13926230/'
 
 nav:
     - Home: 'index.markdown'
